@@ -1,0 +1,13 @@
+.div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    text-underline-offset: none;
+}
+
+.image{
+    border-radius: 999px;
+}
+
