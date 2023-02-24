@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+  background-color: #ffffffbb;
+  background-image: url(./Images/Epic.gif);
+  background-size: 100%  100%;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-attachment: fixed; 
+}
+
+code {
+  font-family: 'Karla', sans-serif;
+}
